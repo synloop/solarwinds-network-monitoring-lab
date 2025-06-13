@@ -1,5 +1,10 @@
 # Network Performance Monitoring Lab
 
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+![Platform](https://img.shields.io/badge/platform-SolarWinds%20NPM-blue)
+![Lab Type](https://img.shields.io/badge/lab-Network_Monitoring-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 **Lab 2 – SolarWinds & NetPath**  
 This lab demonstrates the deployment of an enterprise-grade network monitoring setup using [SolarWinds Network Performance Monitor (NPM)](https://www.solarwinds.com/network-performance-monitor) and NetPath to visualize, monitor, and alert on key performance metrics between a Windows probe and a Cisco router.
 
